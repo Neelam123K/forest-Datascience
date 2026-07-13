@@ -210,8 +210,4 @@ Each risk category is associated with a recommended action.
 **Abhi**
 **Anand**
 
-B.Tech Computer Science Engineering
-B.C.A Computer Application
-
-Data Science and Machine Learning Enthusiast
 ```
