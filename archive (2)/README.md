@@ -204,55 +204,14 @@ Each risk category is associated with a recommended action.
 
 ---
 
-## Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/Forest-Fire-Risk-Estimator.git
-```
-
-Install the required libraries:
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## Required Libraries
-
-```
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-```
-
----
-
-## How to Run
-
-```bash
-git clone https://github.com/your-username/Forest-Fire-Risk-Estimator.git
-
-cd Forest-Fire-Risk-Estimator
-
-pip install -r requirements.txt
-
-jupyter notebook
-```
-
-Open the notebook and run all cells sequentially.
-
----
-
 ## Author
-
 **Udit Kaushik**
+**Neelam**
+**Abhi**
+**Anand**
 
 B.Tech Computer Science Engineering
+B.C.A Computer Application
 
 Data Science and Machine Learning Enthusiast
 ```
